@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💙
 
-Meu nome é johnny antony
+Meu nome é **johnny antony**
 
 -Estou estudando na Alura
 
